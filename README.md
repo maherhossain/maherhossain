@@ -2,7 +2,7 @@
 <p align="center">Professional web developer having 7+ years of experience. Currently pursuing a Master of Science (M.Sc) in Computer Science and Engineering (Major in Data Science) at United International University (UIU).</p>
 
 ## About Me:
-✅ I’m currently working as a Freelance Web Developer<br>✅ Pursuing my MSc in Data Science<br>✅ Portfolio https://maherhossain.com<br>✅ React me at maherdu10@gmail.com
+✅ I’m currently working as a Freelance Web Developer<br>✅ Pursuing my MSc in Data Science<br>✅ React me at maherdu10@gmail.com
 
 ## Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/maherhossaindu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maherhossain) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@maherhossain) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Maher-Hossain-2) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/5543939) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/maherhossaindu) 
